@@ -1,7 +1,6 @@
 
 ### Olá! eu sou a Deborah   👋🏾😊
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Deborah_evelllyn)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/deborah-evellyn-4139422a5)
 
